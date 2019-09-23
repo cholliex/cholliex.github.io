@@ -1,2 +1,4 @@
 # cholliex.github.io
-ProjectsPortFolio
+Professional Portfolio Repository
+This is where you can go to see my repository.
+
